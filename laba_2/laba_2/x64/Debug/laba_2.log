@@ -1,0 +1,4 @@
+﻿  laba_3.cpp
+  laba_4.cpp
+D:\Study\first cours\Дискретная математика\lab_vse\laba_2\laba_2\laba_4.cpp(6,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  laba_2.vcxproj -> D:\Study\first cours\Дискретная математика\lab_vse\laba_2\x64\Debug\laba_2.exe
